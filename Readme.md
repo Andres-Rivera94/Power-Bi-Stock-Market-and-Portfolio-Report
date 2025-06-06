@@ -29,7 +29,7 @@ Page 1 provide insights into the exchanges in the dataset while page 2 provides 
 
 ## ERD Diagram
 
-![ERD_Diagram](images/ERD_Diagram)
+![ERD_Diagram](images/ERD_Diagram.png)
 
 Notice how the Fact table has 5 basic measures
 
